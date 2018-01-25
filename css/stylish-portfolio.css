@@ -39,6 +39,7 @@ h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 
+
 /* Map */
 .map {
   height: 30rem;
@@ -293,7 +294,7 @@ header {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgb(255, 206, 198);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
